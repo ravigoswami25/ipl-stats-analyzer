@@ -1,0 +1,12 @@
+[
+    {"id": 1, "season": 2023, "team1": "CSK", "team2": "MI",  "winner": "CSK", "margin": "5 wickets", "venue": "Chennai", "player_of_match": "MS Dhoni"},
+    {"id": 2, "season": 2023, "team1": "RCB", "team2": "SRH", "winner": "RCB", "margin": "8 runs",    "venue": "Bangalore", "player_of_match": "Virat Kohli"},
+    {"id": 3, "season": 2023, "team1": "MI",  "team2": "RCB", "winner": "MI",  "margin": "6 wickets", "venue": "Mumbai", "player_of_match": "Rohit Sharma"},
+    {"id": 4, "season": 2023, "team1": "CSK", "team2": "SRH", "winner": "CSK", "margin": "12 runs",   "venue": "Chennai", "player_of_match": "Suresh Raina"},
+    {"id": 5, "season": 2023, "team1": "MI",  "team2": "PBKS","winner": "MI",  "margin": "9 runs",    "venue": "Mumbai", "player_of_match": "Jasprit Bumrah"},
+    {"id": 6, "season": 2022, "team1": "RCB", "team2": "CSK", "winner": "RCB", "margin": "7 wickets", "venue": "Bangalore", "player_of_match": "AB de Villiers"},
+    {"id": 7, "season": 2022, "team1": "SRH", "team2": "MI",  "winner": "SRH", "margin": "3 wickets", "venue": "Hyderabad", "player_of_match": "David Warner"},
+    {"id": 8, "season": 2022, "team1": "CSK", "team2": "PBKS","winner": "CSK", "margin": "11 runs",   "venue": "Chennai", "player_of_match": "Ravindra Jadeja"},
+    {"id": 9, "season": 2022, "team1": "MI",  "team2": "SRH", "winner": "MI",  "margin": "4 wickets", "venue": "Mumbai", "player_of_match": "Lasith Malinga"},
+    {"id": 10,"season": 2022, "team1": "PBKS","team2": "RCB", "winner": "RCB", "margin": "6 runs",    "venue": "Mohali", "player_of_match": "Chris Gayle"}
+  ]
